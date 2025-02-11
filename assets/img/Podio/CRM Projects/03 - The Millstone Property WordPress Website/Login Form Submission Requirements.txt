@@ -1,0 +1,14 @@
+The Millstone Property WordPress website:
+
+On form submission:
+
+==> A Contact item is created with a unique Phone# and Email.
+==> A leed is created, containing form information.
+
+Conditions:
+
+==> If Phone# and Email are unique then create a new contact item.
+==> If the address is unique then create a new leed item.
+==> If the address of a newly added item is the same as the existing leed address then update the existing leed item fields with no change in address.
+==> If the newly added Phone# and Email match with the existing contact but the address is different then create a new leed with the newly added address and avoid adding the duplicate contact item.
+ 

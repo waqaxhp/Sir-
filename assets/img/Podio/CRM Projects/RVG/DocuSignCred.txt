@@ -1,0 +1,47 @@
+
+
+###############################################################
+#################### DocuSign Key Values For ##################
+####################  Get Token / Send Doc   ##################
+###############################################################
+
+RVG Capital Group Inc. - CRM
+
+Production:-
+integrator key: c6bf9a83-e107-4903-94dc-8cdb347ad0de
+User id: 860ee2d5-2d7a-45bb-a805-b4213e985087
+account id: 5646968d-fd88-45ac-a3e2-eebaed56c9b9
+Secret Key: 160828b6-ed89-48ee-9803-56954d8c8c9e
+Redirect URI (Base URL): https://stopshoprei.com/client-scripts/docusign-updated-oauth/get_token.php?token=yes (360Synergytech Server)
+Redirect URI: https://oauth.pstmn.io/v1/callback (Postman)
+docusign account base url / Host: https://na4.docusign.net/restapi
+Template Id: 9727291b-0327-4385-8376-b1dccee88ed5
+Base URL: https://stopshoprei.com/client-scripts/docusign-updated-oauth
+
+Development:-
+integrator key: c6bf9a83-e107-4903-94dc-8cdb347ad0de
+User id: 3b85c12c-91cd-4422-a954-05e4756b4c0d
+account id: 5661fe95-6152-4544-9242-b9d0d4f1a7ca
+Secret Key: 34241333-8b8e-4621-a3eb-8a402080e1f9
+Redirect URI (Base URL): https://stopshoprei.com/client-scripts/docusign-updated-oauth/get_token.php?token=yes (360Synergytech Server)
+Redirect URI: https://oauth.pstmn.io/v1/callback (Postman)
+docusign account base url / Host: https://demo.docusign.net/restapi
+Template Id: 9727291b-0327-4385-8376-b1dccee88ed5
+Base URL: https://stopshoprei.com/client-scripts/docusign-updated-oauth
+
+
+############## 360ST DocuSign Developer Account ##############
+
+Username: 360synergytech.dev@gmail.com
+Password: sdklj&*$%^04052022
+
+PASSWORD QUESTION
+Question: Which phone number do you remember most from your childhood?
+Anwser: 8625913074
+
+Secret Key: 9859d1be-0996-4e56-8f22-0ff21e8c0d98 (Developer)
+Secret Key: 34241333-8b8e-4621-a3eb-8a402080e1f9 (Production RVG-CRM)
+
+JSON Format:-
+
+{"username":"3b85c12c-91cd-4422-a954-05e4756b4c0d","password":"","integrator_key":"5b8c9b4b-1b14-4052-946a-3a74aabad47a","host_docusign":"https://demo.docusign.net","account_id":"5661fe95-6152-4544-9242-b9d0d4f1a7ca","GF_webhook":"https://stopshoprei.com/client-scripts/docusign-updated-oauth/get_file_docusign.php","email_subject":"My Property Address - The Assignor - Assignment Contract","GF_webhook_receive":"https://workflow-automation.podio.com/catch/7dbs6z3musl6xgw","access_token":"eyJ0eXAiOiJNVCIsImFsZyI6IlJTMjU2Iiwia2lkIjoiNjgxODVmZjEtNGU1MS00Y2U5LWFmMWMtNjg5ODEyMjAzMzE3In0.AQoAAAABAAUABwAAt31SwpHaSAgAAPegYAWS2kgCACzBhTvNkSJEqVQF5HVrTA0VAAEAAAAYAAQAAAAKAAAAMQAAADgAAAAFAAAADQAkAAAANWI4YzliNGItMWIxNC00MDUyLTk0NmEtM2E3NGFhYmFkNDdhIgAkAAAANWI4YzliNGItMWIxNC00MDUyLTk0NmEtM2E3NGFhYmFkNDdhMAAAvnq9wZHaSDcA0luAD89TZEyDUGjR8dBEWg.1qzUoT5qnZDzbz-ULRbZ5Y5dl5EGw9gsw476f4JzPZZHF8xUZd5PBZ18mjQPSE4cy7QmWt9s-z1uuKJhxZ5yOgeU8VGz1Qg3yPzC6pPGxCZP6X3Qkf67sR-4ipdL9fo_jnz9UH7n2BHtOlCGoHWplbmoxABHPpJT_zQiKHXA6xOeCm7JawU7vjDbWoiOEV4-cQ3NOfd57KdLFPfNFFjy4OfDFLoBm-H3xjFpgTLrSaMHJj8zLdCoBA9o18tzzzb6wwNzXoFFL492CCN2k6v0KkNmbBMWqpD1vxEG1yZ8kvmo-04mPvYWdwO2P69g2VP0lYHhL2Ag2r3xSHfsTyX-VA"}
